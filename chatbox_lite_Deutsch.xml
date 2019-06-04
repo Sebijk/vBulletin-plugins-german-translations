@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<language name="Deutsch (Sie)" vbversion="3.6.10-sj" product="chatbox_lite" type="phrases">
+	<phrasetype name="GLOBAL" fieldname="global">
+		<phrase name="chatboxlite_chatbox_popup" date="1159198454" username="Sebijk" version="0.6"><![CDATA[Chatbox &ouml;ffnen]]></phrase>
+		<phrase name="chatboxlite_first" date="1159198454" username="Sebijk" version="0.6"><![CDATA[Erste]]></phrase>
+		<phrase name="chatboxlite_last" date="1159198454" username="Sebijk" version="0.6"><![CDATA[Letzte]]></phrase>
+		<phrase name="chatboxlite_pages" date="1159198454" username="Sebijk" version="0.6"><![CDATA[Seiten]]></phrase>
+		<phrase name="chatboxlite_refresh" date="1159198454" username="Sebijk" version="0.6"><![CDATA[Aktualisieren]]></phrase>
+		<phrase name="chatboxlite_send" date="1159198454" username="Sebijk" version="0.6"><![CDATA[Senden]]></phrase>
+	</phrasetype>
+</language>
