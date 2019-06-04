@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<language name="Deutsch (Du)" vbversion="4.2.0" product="paulm_wpt_42" type="phrases">
+	<phrasetype name="GLOBAL" fieldname="global">
+		<phrase name="wpt_alt_title" date="1322962884" username="Sebijk" version="4.1.8.0"><![CDATA[Heutige Poster anzeigen]]></phrase>
+		<phrase name="wpt_no_posters" date="1323007507" username="Sebijk" version="4.1.8.0"><![CDATA[Es sind im Moment keine Mitglieder anwesend.]]></phrase>
+		<phrase name="wpt_no_posters_display" date="1322962998" username="Sebijk" version="4.1.8.0"><![CDATA[Das Auflisten der geschriebenen Benutzer wurde von den Administratoren deaktiviert.]]></phrase>
+		<phrase name="wpt_posted_today" date="1323016082" username="Sebijk" version="4.1.8.0"><![CDATA[Mitglieder, die heute schon geschrieben haben: {1}]]></phrase>
+		<phrase name="wpt_posted_today_24" date="1322962884" username="Sebijk" version="4.1.8.0"><![CDATA[Mitglieder, die in der letzten 24 Stunden gepostet haben: {1}]]></phrase>
+		<phrase name="wpt_posters_24" date="1323007436" username="Sebijk" version="4.1.8.0"><![CDATA[{1} meist geschriebene Benutzer waren in den letzten 24 Stunden da gewesen, {2} am {3}.]]></phrase>
+		<phrase name="wpt_posters_day" date="1323007459" username="Sebijk" version="4.1.8.0"><![CDATA[{1} meist geschriebene Benutzer waren am {2} da gewesen.]]></phrase>
+	</phrasetype>
+	<phrasetype name="vBulletin-Einstellungen" fieldname="vbsettings">
+		<phrase name="setting_wpt24_title" date="1322962998" username="Sebijk" version="4.1.8.0"><![CDATA[Wer hat geschrieben? - Rollende 24 Stunden]]></phrase>
+		<phrase name="setting_wpt_desc" date="1322962998" username="Sebijk" version="4.1.8.0"><![CDATA[Schaltet die Anzeige Wer hat geschrieben, ein.]]></phrase>
+		<phrase name="setting_wpt_title" date="1322962998" username="Sebijk" version="4.1.8.0"><![CDATA[Anzeige aktivieren]]></phrase>
+		<phrase name="setting_wptgrps_desc" date="1323007247" username="Sebijk" version="4.1.8.0"><![CDATA[W&auml;hle die Benutzergruppe aus, die in ein- oder ausgeschlossen werden soll. Um mehrere Benutzergruppen auszuw&auml;hlen, dr&uuml;cke die STRG-Taste w&auml;hrend beim Ausw&auml;hlen, fest.]]></phrase>
+		<phrase name="setting_wptgrps_title" date="1322963230" username="Sebijk" version="4.1.8.0"><![CDATA[Benutzergruppen-Listen.]]></phrase>
+		<phrase name="setting_wptgrpz_title" date="1323006544" username="Sebijk" version="4.1.8.0"><![CDATA[Benutzergruppen ein/ausschlie&szlig;en]]></phrase>
+		<phrase name="setting_wptmost_desc" date="1323006544" username="Sebijk" version="4.1.8.0"><![CDATA[Setze hier auf ]]></phrase>
+		<phrase name="setting_wptmost_title" date="1323007247" username="Sebijk" version="4.1.8.0"><![CDATA[Option "Meist geschriebene Benutzer" aktivieren]]></phrase>
+		<phrase name="setting_wptnames_desc" date="1322963230" username="Sebijk" version="4.1.8.0"><![CDATA[Setze auf 'Ja', um die geschriebenen Nutzer in der Liste anzuzeigen]]></phrase>
+		<phrase name="setting_wptnames_title" date="1322963230" username="Sebijk" version="4.1.8.0"><![CDATA[Namen anzeigen]]></phrase>
+		<phrase name="settinggroup_wptgroup" date="1322963230" username="Sebijk" version="4.1.8.0"><![CDATA[Wer hat heute geschrieben?]]></phrase>
+	</phrasetype>
+</language>
