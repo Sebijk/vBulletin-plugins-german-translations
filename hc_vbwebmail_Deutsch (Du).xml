@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<language name="Deutsch (Du)" vbversion="3.6.5" product="hc_vbwebmail" type="phrases">
+	<phrasetype name="Kontrollzentrum: Global" fieldname="cpglobal">
+		<phrase name="wmail_cp_canusewmail" date="1162067710" username="Sebijk" version="1.00"><![CDATA[Kann das WMail Webmail Client benutzen?]]></phrase>
+	</phrasetype>
+	<phrasetype name="GLOBAL" fieldname="global">
+		<phrase name="wmail_accesswebmail" date="1150225321" username="Sebijk" version="1.00"><![CDATA[Webmail-Zugang]]></phrase>
+		<phrase name="wmail_settings" date="1150225369" username="Sebijk" version="1.00"><![CDATA[Webmail-Einstellungen]]></phrase>
+	</phrasetype>
+	<phrasetype name="WMail Phrases" fieldname="wmail">
+		<phrase name="wmail_addnewatt" date="0" username="" version=""><![CDATA[Füge neuen Anhang hinzu]]></phrase>
+		<phrase name="wmail_addressbook" date="0" username="" version=""><![CDATA[Das Schwarzbuch]]></phrase>
+		<phrase name="wmail_adrbook" date="0" username="" version=""><![CDATA[Adressbuch]]></phrase>
+		<phrase name="wmail_adrbook_adrbookempty" date="0" username="" version=""><![CDATA[Dein Adressbuch ist leer!]]></phrase>
+		<phrase name="wmail_adrbook_contactlist" date="0" username="" version=""><![CDATA[Deine Kontakte]]></phrase>
+		<phrase name="wmail_adrbook_copyto" date="0" username="" version=""><![CDATA[Verwende gewählten Kontakt als]]></phrase>
+		<phrase name="wmail_adrbook_details" date="0" username="" version=""><![CDATA[Kontaktdetails]]></phrase>
+		<phrase name="wmail_adrbook_email" date="1162067780" username="Sebijk" version="1.00"><![CDATA[E-Mail Adresse]]></phrase>
+		<phrase name="wmail_adrbook_name" date="0" username="" version=""><![CDATA[Nick oder Realname]]></phrase>
+		<phrase name="wmail_adrbook_quicknew" date="0" username="" version=""><![CDATA[Neue Mail an gewählten Eintrag]]></phrase>
+		<phrase name="wmail_adrbook_save" date="0" username="" version=""><![CDATA[Aktualisiere existierenden / Füge neuen Eintrag hinzu]]></phrase>
+		<phrase name="wmail_adrbook_welcome" date="0" username="" version=""><![CDATA[Dies ist Dein Adressbuch.<br />Ergänze, editiere und lösche mögliche Empfänger hier.]]></phrase>
+		<phrase name="wmail_attachments" date="0" username="" version=""><![CDATA[Anhänge]]></phrase>
+		<phrase name="wmail_attimg" date="0" username="" version=""><![CDATA[Anhang]]></phrase>
+		<phrase name="wmail_authtype" date="1162067881" username="Sebijk" version="1.00"><![CDATA[Authentisierungstyp]]></phrase>
+		<phrase name="wmail_bcc" date="0" username="" version=""><![CDATA[Blindkopie]]></phrase>
+		<phrase name="wmail_cc" date="0" username="" version=""><![CDATA[Kopie]]></phrase>
+		<phrase name="wmail_chooseeditor" date="0" username="" version=""><![CDATA[Wähle den Editor um Mails zu schreiben]]></phrase>
+		<phrase name="wmail_clickforinbox" date="1154881186" username="Sebijk" version="1.00"><![CDATA[Klicke <a href="wmail.php?do=getmail">hier</a> f&uuml;r Deinen kompletten<br />Posteingang.]]></phrase>
+		<phrase name="wmail_composemail" date="1154881034" username="Sebijk" version="1.00"><![CDATA[Neue E-Mail verfassen]]></phrase>
+		<phrase name="wmail_cutoffafter" date="0" username="" version=""><![CDATA[Maximum an Betreffzeilen in der Inbox (in Buchstaben)]]></phrase>
+		<phrase name="wmail_date" date="0" username="" version=""><![CDATA[Datum]]></phrase>
+		<phrase name="wmail_delete" date="1155327825" username="Sebijk" version="1.00"><![CDATA[L&ouml;schen]]></phrase>
+		<phrase name="wmail_deleteselected" date="1162067869" username="Sebijk" version="1.00"><![CDATA[Markierte l&ouml;schen]]></phrase>
+		<phrase name="wmail_error" date="0" username="" version=""><![CDATA[FEHLER]]></phrase>
+		<phrase name="wmail_error_attdl" date="0" username="" version=""><![CDATA[Es trat ein Fehler auf bei dem Versuch den Anhang herunterzuladen!<br /><br />
+Dies kann passieren wenn Deine Pop3 Daten nicht stimmen, oder der Anhang nicht existiert.]]></phrase>
+		<phrase name="wmail_error_inboxempty" date="0" username="" version=""><![CDATA[Dein Posteingang ist leer]]></phrase>
+		<phrase name="wmail_error_missingto" date="0" username="" version=""><![CDATA[Das &quot;AN&quot; Feld darf nicht leer sein!<br />Bitte ergänze einen Empfänger und versuche es erneut.]]></phrase>
+		<phrase name="wmail_error_pop3connect" date="0" username="" version=""><![CDATA[Es trat ein Fehler bei dem Versuch den Pop3 Server zu kontaktieren auf!]]></phrase>
+		<phrase name="wmail_error_smtp" date="0" username="" version=""><![CDATA[Es trat ein Fehler bei der Kommunikation mit dem SMTP Server auf!<br />Protokoll folgt:]]></phrase>
+		<phrase name="wmail_forward" date="0" username="" version=""><![CDATA[Weiterleiten]]></phrase>
+		<phrase name="wmail_from" date="0" username="" version=""><![CDATA[Von]]></phrase>
+		<phrase name="wmail_generaloptions" date="0" username="" version=""><![CDATA[Allgemeine Optionen]]></phrase>
+		<phrase name="wmail_homepage_welcome" date="1150633202" username="Sebijk" version="1.00"><![CDATA[<em>Willkommen {1}.</em><br /><br />Du hast insgesamt <strong>{2}</strong> Mails in Deinem Posteingang,<br />also <strong>{3}</strong> mehr als bei Deinem letzten Besuch.]]></phrase>
+		<phrase name="wmail_inbox" date="0" username="" version=""><![CDATA[Posteingang]]></phrase>
+		<phrase name="wmail_lastestmail" date="0" username="" version=""><![CDATA[Letzte Mail]]></phrase>
+		<phrase name="wmail_loginascookie" date="1150225543" username="Sebijk" version="1.00"><![CDATA[Logindaten in einem Cookie speichern]]></phrase>
+		<phrase name="wmail_loginascookiedescr" date="0" username="" version=""><![CDATA[Normalerweise werden Deine Daten in der Datenbank gespeichert,<br />
+somit brauchst Du sie nicht jedesmal einzugeben.<br />
+Möchtest Du das jedoch nicht kannst Du in den Optionen auswählen<br />
+diese in einem Cookie lokal auf Deinen PC zu speichern.<br />
+Damit sind die Daten gespeichert bis Du Deinen Cookie löscht<br />
+oder den Arbeitsplatz wechselst.]]></phrase>
+		<phrase name="wmail_mailbox" date="0" username="" version=""><![CDATA[Postfach]]></phrase>
+		<phrase name="wmail_mailsent" date="1154881006" username="Sebijk" version="1.00"><![CDATA[<em>Deine Mail an </em><br /><strong>{1}</strong><br /><em>ist gesendet.</em>]]></phrase>
+		<phrase name="wmail_mailsperpage" date="0" username="" version=""><![CDATA[Mails pro Seite]]></phrase>
+		<phrase name="wmail_markallread" date="1154881256" username="Sebijk" version="1.00"><![CDATA[Alle E-Mails als gelesen makieren]]></phrase>
+		<phrase name="wmail_markselectedread" date="1154881321" username="Sebijk" version="1.00"><![CDATA[Gew&auml;hlte E-Mails als gelesen makieren]]></phrase>
+		<phrase name="wmail_markunread" date="0" username="" version=""><![CDATA[Markiere markierte als ungelesen]]></phrase>
+		<phrase name="wmail_nav_getmail" date="0" username="" version=""><![CDATA[Mailabruf]]></phrase>
+		<phrase name="wmail_nav_newmail" date="0" username="" version=""><![CDATA[Neue Mail]]></phrase>
+		<phrase name="wmail_nav_settings" date="0" username="" version=""><![CDATA[Einstellungen]]></phrase>
+		<phrase name="wmail_navbit_webmail" date="0" username="" version=""><![CDATA[Webmail Zugriff]]></phrase>
+		<phrase name="wmail_newestfirst" date="0" username="" version=""><![CDATA[Neueste zuerst]]></phrase>
+		<phrase name="wmail_newestlast" date="0" username="" version=""><![CDATA[Neueste zuletzt]]></phrase>
+		<phrase name="wmail_notice" date="0" username="" version=""><![CDATA[Notiz]]></phrase>
+		<phrase name="wmail_panelactions" date="0" username="" version=""><![CDATA[Aktionen]]></phrase>
+		<phrase name="wmail_paneloptions" date="0" username="" version=""><![CDATA[Optionen]]></phrase>
+		<phrase name="wmail_password" date="0" username="" version=""><![CDATA[Passwort]]></phrase>
+		<phrase name="wmail_quotingmsg" date="0" username="" version=""><![CDATA[Mitteilung zitieren]]></phrase>
+		<phrase name="wmail_readmail" date="0" username="" version=""><![CDATA[Mails lesen]]></phrase>
+		<phrase name="wmail_recentthings" date="0" username="" version=""><![CDATA[Letzte Ereignisse]]></phrase>
+		<phrase name="wmail_rediraftersend" date="0" username="" version=""><![CDATA[Nach dem senden automatisch zu "Neue Mail" umleiten]]></phrase>
+		<phrase name="wmail_reply" date="1155327866" username="Sebijk" version="1.00"><![CDATA[Antworten]]></phrase>
+		<phrase name="wmail_savesettings" date="1154880591" username="Sebijk" version="1.00"><![CDATA[Einstellungen speichern]]></phrase>
+		<phrase name="wmail_selectall" date="1154881434" username="Sebijk" version="1.00"><![CDATA[Alle (de)makieren]]></phrase>
+		<phrase name="wmail_send" date="1154880531" username="Sebijk" version="1.00"><![CDATA[Senden]]></phrase>
+		<phrase name="wmail_senderemail" date="0" username="" version=""><![CDATA[Absenderadresse]]></phrase>
+		<phrase name="wmail_senderrealname" date="0" username="" version=""><![CDATA[Name des Absenders]]></phrase>
+		<phrase name="wmail_sendersig" date="0" username="" version=""><![CDATA[Mailsignatur]]></phrase>
+		<phrase name="wmail_serveroptions" date="1154881377" username="Sebijk" version="1.00"><![CDATA[Server-Optionen]]></phrase>
+		<phrase name="wmail_settings_pop3" date="0" username="" version=""><![CDATA[POP3 (Eingang)]]></phrase>
+		<phrase name="wmail_settings_prefs" date="0" username="" version=""><![CDATA[Benutzereinstellungen]]></phrase>
+		<phrase name="wmail_settings_sender" date="0" username="" version=""><![CDATA[Absendereinstellungen]]></phrase>
+		<phrase name="wmail_settings_smtp" date="0" username="" version=""><![CDATA[SMTP (Ausgang)]]></phrase>
+		<phrase name="wmail_simple" date="0" username="" version=""><![CDATA[Simpel]]></phrase>
+		<phrase name="wmail_size" date="1154881097" username="Sebijk" version="1.00"><![CDATA[Gr&ouml;&szlig;e]]></phrase>
+		<phrase name="wmail_smtpauth_none" date="0" username="" version=""><![CDATA[KEINE]]></phrase>
+		<phrase name="wmail_sortorder" date="0" username="" version=""><![CDATA[Sortierreihenfolge]]></phrase>
+		<phrase name="wmail_subject" date="0" username="" version=""><![CDATA[Betreff]]></phrase>
+		<phrase name="wmail_timeout" date="0" username="" version=""><![CDATA[Timeout (in Sekunden)]]></phrase>
+		<phrase name="wmail_to" date="0" username="" version=""><![CDATA[An]]></phrase>
+		<phrase name="wmail_upload" date="0" username="" version=""><![CDATA[Hochladen]]></phrase>
+		<phrase name="wmail_useforumemail" date="0" username="" version=""><![CDATA[Benutze Forum E-Mail Adresse]]></phrase>
+		<phrase name="wmail_useforumnick" date="0" username="" version=""><![CDATA[Benutze Forumnickname]]></phrase>
+		<phrase name="wmail_useforumsig" date="0" username="" version=""><![CDATA[Benutze Forumsignatur]]></phrase>
+		<phrase name="wmail_username" date="0" username="" version=""><![CDATA[Benutzername]]></phrase>
+		<phrase name="wmail_versionmismatch" date="0" username="" version=""><![CDATA[VERSIONSKONFLIKT ENTDECKT!<br />Eine Version in den Systemdateien ist inkonsistent,<br />bitte informiere den Admin!]]></phrase>
+		<phrase name="wmail_wmailpanel" date="0" username="" version=""><![CDATA[Webmail Optionen]]></phrase>
+		<phrase name="wmail_wmailsettings" date="1154880649" username="Sebijk" version="1.00"><![CDATA[Forum Webmail-Konfiguration]]></phrase>
+	</phrasetype>
+	<phrasetype name="WMail AdminCP Phrases" fieldname="wmailadmin">
+		<phrase name="wmail_admin_descr_global" date="1150633365" username="Sebijk" version="1.00"><![CDATA[Hier kannst Du einige Optionen für Deine Benutzer vorgeben.<br />Lass ein Feld leer oder lösche es um diese Punkte nicht zu überschreiben.<br />Der User kann die hier von dir geänderten Punkte nicht überschreiben!]]></phrase>
+		<phrase name="wmail_admin_header_global" date="0" username="" version=""><![CDATA[WMail Globale Einstellungen]]></phrase>
+		<phrase name="wmail_admin_settingssaved" date="0" username="" version=""><![CDATA[Einstellungen gespeichert....]]></phrase>
+		<phrase name="wmail_admin_useforumemail" date="1150225580" username="Sebijk" version="1.00"><![CDATA[Forum E-Mail Adresse benutzen]]></phrase>
+		<phrase name="wmail_admin_useforumnick" date="0" username="" version=""><![CDATA[Benutze Forumnickname]]></phrase>
+		<phrase name="wmail_admin_useforumsig" date="0" username="" version=""><![CDATA[Benutze Forumsignatur]]></phrase>
+	</phrasetype>
+</language>
