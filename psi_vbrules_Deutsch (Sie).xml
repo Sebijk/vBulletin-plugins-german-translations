@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<language name="Deutsch (Sie)" vbversion="3.7.0 Beta 3" product="psi_vbrules" type="phrases">
+	<phrasetype name="Kontrollzentrum: Global" fieldname="cpglobal">
+		<phrase name="are_you_sure_want_to_delete_rule_x" date="1198711482" username="Sebijk" version="2.0.3"><![CDATA[Sind Sie sicher, dass Sie die Regel <em>"{1}"</em> entfernen m&ouml;chten?]]></phrase>
+		<phrase name="rule" date="1198711285" username="Sebijk" version="2.0.3"><![CDATA[Regel]]></phrase>
+		<phrase name="vbrules_actions" date="1198711200" username="Sebijk" version="2.0.3"><![CDATA[Aktionen]]></phrase>
+		<phrase name="vbrules_add_rule" date="1198711200" username="Sebijk" version="2.0.3"><![CDATA[Regel hinzuf&uuml;gen]]></phrase>
+		<phrase name="vbrules_delete" date="1198711200" username="Sebijk" version="2.0.3"><![CDATA[L&ouml;schen]]></phrase>
+		<phrase name="vbrules_deleted_rule_successfully" date="1198711200" username="Sebijk" version="2.0.3"><![CDATA[Regel wurde erfolgreich entfernt]]></phrase>
+		<phrase name="vbrules_display_in_reg" date="1198711200" username="Sebijk" version="2.0.3"><![CDATA[In der Registrierung anzeigen]]></phrase>
+		<phrase name="vbrules_display_in_rul" date="1198711200" username="Sebijk" version="2.0.3"><![CDATA[In Regeln-Site anzeigen]]></phrase>
+		<phrase name="vbrules_display_in_toc" date="1198711200" username="Sebijk" version="2.0.3"><![CDATA[In Inhaltsverzeichnis anzeigen]]></phrase>
+		<phrase name="vbrules_edit" date="1198711200" username="Sebijk" version="2.0.3"><![CDATA[&Auml;ndern]]></phrase>
+		<phrase name="vbrules_edit_rule" date="1198711200" username="Sebijk" version="2.0.3"><![CDATA[Regel bearbeiten]]></phrase>
+		<phrase name="vbrules_edit_rules" date="1198711285" username="Sebijk" version="2.0.3"><![CDATA[Regeln bearbeiten]]></phrase>
+		<phrase name="vbrules_enable_auto_crlf" date="1198711482" username="Sebijk" version="2.0.3"><![CDATA[Linien automatisch trennen]]></phrase>
+		<phrase name="vbrules_manager" date="1198711285" username="Sebijk" version="2.0.3"><![CDATA[Regelverwaltung]]></phrase>
+		<phrase name="vbrules_message" date="1198711285" username="Sebijk" version="2.0.3"><![CDATA[Nachricht]]></phrase>
+		<phrase name="vbrules_title" date="1198711285" username="Sebijk" version="2.0.3"><![CDATA[Titel]]></phrase>
+	</phrasetype>
+	<phrasetype name="Fehlermeldungen" fieldname="error">
+		<phrase name="vbrules_deleted_rule_successfully" date="1198711200" username="Sebijk" version="2.0.3"><![CDATA[Regel wurde erfolgreich entfernt]]></phrase>
+		<phrase name="vbrules_invalid_rule_specified" date="1198711063" username="Sebijk" version="2.0.3"><![CDATA[Ung&uuml;ltige Regel spezifiziert]]></phrase>
+		<phrase name="vbrules_required_fields_missing" date="1198711482" username="Sebijk" version="2.0.3"><![CDATA[Bitte gehen Sie zur&uuml;ck und vervollst&auml;ndigen Sie die ben&ouml;tigte Feldern.]]></phrase>
+		<phrase name="vbrules_saved_rule_x_successfully" date="1198711063" username="Sebijk" version="2.0.3"><![CDATA[Regel <em>"{1}"</em> erfolgreich gespeichert]]></phrase>
+	</phrasetype>
+	<phrasetype name="GLOBAL" fieldname="global">
+		<phrase name="vbrules_no_defined_rules" date="1198711063" username="Sebijk" version="2.0.3"><![CDATA[Es wurden keine Regeln definiert]]></phrase>
+		<phrase name="vbrules_rules" date="1198711063" username="Sebijk" version="2.0.3"><![CDATA[Forenregeln]]></phrase>
+		<phrase name="vbrules_toc" date="1198711063" username="Sebijk" version="2.0.3"><![CDATA[Inhaltsverzeichnis]]></phrase>
+	</phrasetype>
+	<phrasetype name="vBulletin-Einstellungen" fieldname="vbsettings">
+		<phrase name="settinggroup_vbrules" date="1198711726" username="Sebijk" version="2.0.3"><![CDATA[vBRules]]></phrase>
+		<phrase name="setting_vbrules_show_native_rules_desc" date="1198711726" username="Sebijk" version="2.0.3"><![CDATA[Geben Sie hier an, ob Sie die nativen vBulletin-Regeln für die Registrierung anzeigt werden sollen.]]></phrase>
+		<phrase name="setting_vbrules_show_native_rules_title" date="1198711726" username="Sebijk" version="2.0.3"><![CDATA[vB's Native Regeln in der Registrierungsseite anzeigen?]]></phrase>
+	</phrasetype>
+	<phrasetype name="Wer ist online" fieldname="wol">
+		<phrase name="vbrules_viewing_forum_rules" date="1198711063" username="Sebijk" version="2.0.3"><![CDATA[Liest die Forenregeln]]></phrase>
+	</phrasetype>
+</language>

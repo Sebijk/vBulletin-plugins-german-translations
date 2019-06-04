@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<language name="Deutsch (Sie)" vbversion="3.7.1" product="genpermoverride" type="phrases">
+	<phrasetype name="Kontrollzentrum: Benutzer-Verwaltung" fieldname="cpuser">
+		<phrase name="admin_enforced_ignore" date="1213785561" username="Sebijk" version="1.0.3"><![CDATA[Administrator-Durchsetzer bei folgenden Benutzern ignorieren<dfn>Hier können Sie die Benutzer-IDs (mit einem Komma trennen) setzen, die vom dieser Aktion ignoriert werden sollen; er wird nicht in der Lage sein, bestimmte Sachen dieser Benutzer zu ändern.</dfn>]]></phrase>
+		<phrase name="admin_permission_override" date="1213785584" username="Sebijk" version="1.0.3"><![CDATA[Admin Permission Override]]></phrase>
+		<phrase name="disabled" date="1213785561" username="Sebijk" version="1.0.3"><![CDATA[Ausgeschaltet]]></phrase>
+		<phrase name="locked" date="1213785561" username="Sebijk" version="1.0.3"><![CDATA[Gesperrt]]></phrase>
+	</phrasetype>
+</language>

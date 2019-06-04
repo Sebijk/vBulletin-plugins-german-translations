@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<language name="Deutsch (Sie)" vbversion="3.7.0 Beta 3" product="tutsys" type="phrases">
+	<phrasetype name="Kontrollzentrum: Global" fieldname="cpglobal">
+		<phrase name="tutsys_active" date="1162046914" username="Sebijk" version="1.0"><![CDATA[Ist Aktiv?]]></phrase>
+		<phrase name="tutsys_active1" date="1162046914" username="Sebijk" version="1.0"><![CDATA[Aktiv]]></phrase>
+		<phrase name="tutsys_addcat" date="1198692525" username="Sebijk" version="1.0"><![CDATA[Neue Kategorie hinzuf&uuml;gen]]></phrase>
+		<phrase name="tutsys_addnew" date="1198692525" username="Sebijk" version="1.0"><![CDATA[Neuer(s) Artikel/Tutorial hinzuf&uuml;gen]]></phrase>
+		<phrase name="tutsys_article" date="0" username="" version=""><![CDATA[Artikel/Tutorial]]></phrase>
+		<phrase name="tutsys_author" date="0" username="" version=""><![CDATA[Autor]]></phrase>
+		<phrase name="tutsys_awaiting" date="1162046914" username="Sebijk" version="1.0"><![CDATA[Warten auf]]></phrase>
+		<phrase name="tutsys_canbrowse" date="1198692490" username="Sebijk" version="1.0"><![CDATA[Kann Tutorials/Artikeln in Kategorien durchsuchen?]]></phrase>
+		<phrase name="tutsys_cancomment" date="1198692490" username="Sebijk" version="1.0"><![CDATA[Kann Kommentare in Artikel/Tutorial schreiben?]]></phrase>
+		<phrase name="tutsys_canmoderatecom" date="1198692490" username="Sebijk" version="1.0"><![CDATA[Kann Kommentare moderieren?]]></phrase>
+		<phrase name="tutsys_canmodify_otherpost" date="1198692490" username="Sebijk" version="1.0"><![CDATA[Kann andere Artikel/Tutorial &auml;ndern?]]></phrase>
+		<phrase name="tutsys_canmodify_owncom" date="1198692490" username="Sebijk" version="1.0"><![CDATA[Kann seine eigene Kommentare &auml;ndern?]]></phrase>
+		<phrase name="tutsys_canmodify_ownpost" date="1198692490" username="Sebijk" version="1.0"><![CDATA[Kann sein eigenes Artikel/Tutorial &auml;ndern?]]></phrase>
+		<phrase name="tutsys_canpost" date="1198692490" username="Sebijk" version="1.0"><![CDATA[Kann neue Artikel/Tutorial schreiben?]]></phrase>
+		<phrase name="tutsys_canrate" date="1198692490" username="Sebijk" version="1.0"><![CDATA[Kann Artikel/Tutorial bewerten?]]></phrase>
+		<phrase name="tutsys_cansend" date="1198692490" username="Sebijk" version="1.0"><![CDATA[Kann Artikel an Freunde weiterempfehlen?]]></phrase>
+		<phrase name="tutsys_canview" date="1198692490" username="Sebijk" version="1.0"><![CDATA[Kann den Inhalt des Artikel/Tutorial sehen?]]></phrase>
+		<phrase name="tutsys_catdesc" date="0" username="" version=""><![CDATA[Kurze Beschreibung]]></phrase>
+		<phrase name="tutsys_category" date="0" username="" version=""><![CDATA[Kategorie]]></phrase>
+		<phrase name="tutsys_catname" date="1198692149" username="Sebijk" version="1.0"><![CDATA[Kategorie-Name]]></phrase>
+		<phrase name="tutsys_comments" date="1198692149" username="Sebijk" version="1.0"><![CDATA[Kommentare]]></phrase>
+		<phrase name="tutsys_commessage" date="0" username="" version=""><![CDATA[Nachricht]]></phrase>
+		<phrase name="tutsys_comtitle" date="1162064291" username="Sebijk" version="1.0"><![CDATA[Kommentar-Titel]]></phrase>
+		<phrase name="tutsys_cpnav" date="1162064324" username="Sebijk" version="1.0"><![CDATA[Tutorials/Artikeln]]></phrase>
+		<phrase name="tutsys_inactive" date="0" username="" version=""><![CDATA[Inaktiv]]></phrase>
+		<phrase name="tutsys_managecat" date="1162063763" username="Sebijk" version="1.0"><![CDATA[Kategorien verwalten]]></phrase>
+		<phrase name="tutsys_managecom" date="1162063807" username="Sebijk" version="1.0"><![CDATA[Kommentare verwalten]]></phrase>
+		<phrase name="tutsys_managetuts" date="0" username="" version=""><![CDATA[Artikel bearbeiten]]></phrase>
+		<phrase name="tutsys_missing_field" date="1198692188" username="Sebijk" version="1.0"><![CDATA[Entschuldigung, ein oder mehrere Felder wurden nicht ausgef&uuml;llt. Bitte dr&uuml;cken Sie "zur&uuml;ck" und korrigieren Sie den Fehler und versuchen Sie es dann noch einmal.]]></phrase>
+		<phrase name="tutsys_modcat" date="1198692188" username="Sebijk" version="1.0"><![CDATA[Kategorie bearbeiten]]></phrase>
+		<phrase name="tutsys_modcom" date="1198692149" username="Sebijk" version="1.0"><![CDATA[Kommentar &auml;ndern]]></phrase>
+		<phrase name="tutsys_modtut" date="0" username="" version=""><![CDATA[Artikel/Tutorial bearbeiten]]></phrase>
+		<phrase name="tutsys_none" date="0" username="" version=""><![CDATA[Keine]]></phrase>
+		<phrase name="tutsys_options" date="0" username="" version=""><![CDATA[Einstellungen]]></phrase>
+		<phrase name="tutsys_parentcat" date="0" username="" version=""><![CDATA[Parent Category]]></phrase>
+		<phrase name="tutsys_perms" date="1198692085" username="Sebijk" version="1.0"><![CDATA[Tutorial/Artikel-Rechte]]></phrase>
+		<phrase name="tutsys_postby" date="0" username="" version=""><![CDATA[Geschrieben von]]></phrase>
+		<phrase name="tutsys_postdate" date="1198692085" username="Sebijk" version="1.0"><![CDATA[Beitragsdatum]]></phrase>
+		<phrase name="tutsys_poster" date="0" username="" version=""><![CDATA[Schreiber]]></phrase>
+		<phrase name="tutsys_posterip" date="1198692085" username="Sebijk" version="1.0"><![CDATA[Schreiber-IP]]></phrase>
+		<phrase name="tutsys_rating" date="1198692085" username="Sebijk" version="1.0"><![CDATA[Bewertung]]></phrase>
+		<phrase name="tutsys_required_moderate" date="1198692038" username="Sebijk" version="1.0"><![CDATA[Wird Moderation f&uuml;r neue geschriebene Artikel/Tutorials f&uuml;r diese Benutzergruppe ben&ouml;tigt?]]></phrase>
+		<phrase name="tutsys_selectone" date="1163966686" username="Sebijk" version="1.0"><![CDATA[W&auml;hlen Sie hier]]></phrase>
+		<phrase name="tutsys_settings" date="1198691972" username="Sebijk" version="1.0"><![CDATA[Tutorial-Einstellungen]]></phrase>
+		<phrase name="tutsys_shortdesc" date="0" username="" version=""><![CDATA[Kurze Beschreibung]]></phrase>
+		<phrase name="tutsys_status" date="0" username="" version=""><![CDATA[Status]]></phrase>
+		<phrase name="tutsys_total" date="0" username="" version=""><![CDATA[Alle]]></phrase>
+		<phrase name="tutsys_totalcom" date="1198691972" username="Sebijk" version="1.0"><![CDATA[Kommentare gesamt]]></phrase>
+		<phrase name="tutsys_tutname" date="1198691972" username="Sebijk" version="1.0"><![CDATA[Artikel/Tutorialname]]></phrase>
+		<phrase name="tutsys_tuttext" date="0" username="" version=""><![CDATA[Artikel/Tutorial Hauptinhalt]]></phrase>
+		<phrase name="tutsys_update" date="1198691972" username="Sebijk" version="1.0"><![CDATA[&Auml;nderungen speichern]]></phrase>
+		<phrase name="tutsys_viewtut" date="0" username="" version=""><![CDATA[Artikel/Tutorial ansehen]]></phrase>
+	</phrasetype>
+	<phrasetype name="Fehlermeldungen" fieldname="error">
+		<phrase name="tutsys_empty_cat" date="1198692877" username="Sebijk" version="1.0"><![CDATA[Sie m&uuml;ssen eine Kategorie f&uuml;r diesen Arikel/Tutorial ausw&auml;hlen. Bitte dr&uuml;cken Sie "zur&uuml;ck" und korrigieren Sie den Fehler und versuchen Sie es dann noch einmal.]]></phrase>
+		<phrase name="tutsys_empty_fields" date="1198692827" username="Sebijk" version="1.0"><![CDATA[Ein oder mehrere Felder wurden nicht ausgef&uuml;llt. Bitte dr&uuml;cken Sie "zur&uuml;ck" und korrigieren Sie den Fehler und versuchen Sie es dann noch einmal.]]></phrase>
+		<phrase name="tutsys_empty_message" date="1198692827" username="Sebijk" version="1.0"><![CDATA[Sie m&uuml;ssen eine Nachricht eingeben ehe sie best&auml;tigen.]]></phrase>
+		<phrase name="tutsys_item_deleted" date="1198692827" username="Sebijk" version="1.0"><![CDATA[Deine Nachricht wurde erfolgreich gel&ouml;scht!]]></phrase>
+		<phrase name="tutsys_item_inserted" date="0" username="" version=""><![CDATA[Nachricht wurde erfolgreich eingetragen!]]></phrase>
+		<phrase name="tutsys_item_updated" date="1198692827" username="Sebijk" version="1.0"><![CDATA[Die &Auml;nderungen wurden erfolgreich gespeichert!]]></phrase>
+		<phrase name="tutsys_missing_field" date="1198692827" username="Sebijk" version="1.0"><![CDATA[Ein oder mehrere Felder wurden nicht ausgef&uuml;llt. Bitte dr&uuml;cken Sie "zur&uuml;ck" und korrigieren Sie den Fehler und versuchen Sie es dann noch einmal.]]></phrase>
+		<phrase name="tutsys_missing_fields" date="1198692827" username="Sebijk" version="1.0"><![CDATA[Entschuldigung, aber Sie m&uuml;ssen ein Artikel f&uuml;r die Bewertung ausw&auml;hlen und dieser Artikel muss existieren.]]></phrase>
+		<phrase name="tutsys_nonexists" date="1198692846" username="Sebijk" version="1.0"><![CDATA[Entschuldigung, der ausgew&auml;hlte Artikel existiert nicht. Bitte wenden Sie sich bei dieser Nachricht an den Administrstor.]]></phrase>
+		<phrase name="tutsys_norating_perm" date="1198692525" username="Sebijk" version="1.0"><![CDATA[Entschuldigung, Sie haben keine Rechte diesen Ariktel zu bewerten. Bitte wenden Sie sich bei dieser Nachricht an den Administrator.]]></phrase>
+	</phrasetype>
+	<phrasetype name="Benutzeroberfläche: Weiterleitungen" fieldname="frontredirect">
+		<phrase name="tutsys_articleupdated" date="0" username="" version=""><![CDATA[Die &Auml;nderungen wurden erfolgreich gespeichert.]]></phrase>
+		<phrase name="tutsys_commentsent" date="1162046800" username="Sebijk" version="1.0"><![CDATA[Ihr Kommentar wurde erfolgreich gespeichert. Sie werden jetzt zum Artikel weitergeleitet.]]></phrase>
+		<phrase name="tutsys_post_reviewed" date="1198692970" username="Sebijk" version="1.0"><![CDATA[Ihr Artikel wurde erfolgreich gesendet und wartet auf den Review.]]></phrase>
+		<phrase name="tutsys_post_submitted" date="1162046849" username="Sebijk" version="1.0"><![CDATA[Ihr Artikel wurde erfolgreich gesendet.]]></phrase>
+	</phrasetype>
+	<phrasetype name="GLOBAL" fieldname="global">
+		<phrase name="tutsys" date="1169753724" username="Sebijk" version="1.0"><![CDATA[Tutorials]]></phrase>
+		<phrase name="tutsys_allowbbcode" date="1162045784" username="Sebijk" version="1.0"><![CDATA[vB-Codes sind aktiviert.]]></phrase>
+		<phrase name="tutsys_allowhtml" date="0" username="" version=""><![CDATA[HTML ist aktiviert.]]></phrase>
+		<phrase name="tutsys_article" date="0" username="" version=""><![CDATA[Artikel]]></phrase>
+		<phrase name="tutsys_articletools" date="1162045964" username="Sebijk" version="1.0"><![CDATA[Artikel-Werkzeuge]]></phrase>
+		<phrase name="tutsys_author" date="0" username="" version=""><![CDATA[Autor]]></phrase>
+		<phrase name="tutsys_bestauth" date="1162047045" username="Sebijk" version="1.0"><![CDATA[Meist gesendete Artikeln]]></phrase>
+		<phrase name="tutsys_categories" date="1162045964" username="Sebijk" version="1.0"><![CDATA[Kategorien]]></phrase>
+		<phrase name="tutsys_category" date="1162045964" username="Sebijk" version="1.0"><![CDATA[Kategorie]]></phrase>
+		<phrase name="tutsys_comments" date="0" username="" version=""><![CDATA[Kommentare der Leser]]></phrase>
+		<phrase name="tutsys_content" date="0" username="" version=""><![CDATA[Artikel Inhalt]]></phrase>
+		<phrase name="tutsys_controls" date="1162045964" username="Sebijk" version="1.0"><![CDATA[Optionen]]></phrase>
+		<phrase name="tutsys_copyright" date="1198693336" username="Sebijk" version="1.0"><![CDATA[<a href="http://www.vbviet.com/" target="_blank">vB Tutorial {1}</a> &copy 2005-2006 vBviet.com. <br />Deutsche &Uuml;bersetzung von: <a href="http://www.sebijk.com/" target="_blank">Home of the Sebijk.com</a> ]]></phrase>
+		<phrase name="tutsys_detail" date="0" username="" version=""><![CDATA[Details ansehen]]></phrase>
+		<phrase name="tutsys_editcom" date="0" username="" version=""><![CDATA[Kommentar bearbeiten]]></phrase>
+		<phrase name="tutsys_imgcode" date="1162046017" username="Sebijk" version="1.0"><![CDATA[[IMG] Code ist aktiviert.]]></phrase>
+		<phrase name="tutsys_info" date="1198693231" username="Sebijk" version="1.0"><![CDATA[Informationen &uuml;ber den Artikel]]></phrase>
+		<phrase name="tutsys_lastsubmit" date="1162046991" username="Sebijk" version="1.0"><![CDATA[Letzte Artikeln]]></phrase>
+		<phrase name="tutsys_main" date="1162046197" username="Sebijk" version="1.0"><![CDATA[Tutorial-System]]></phrase>
+		<phrase name="tutsys_modifycom" date="0" username="" version=""><![CDATA[Kommentar bearbeiten]]></phrase>
+		<phrase name="tutsys_modifytut" date="0" username="" version=""><![CDATA[Artikel bearbeiten]]></phrase>
+		<phrase name="tutsys_mostpop" date="1162047085" username="Sebijk" version="1.0"><![CDATA[Beliebteste Artikeln]]></phrase>
+		<phrase name="tutsys_mostread" date="0" username="" version=""><![CDATA[Am meisten gelesene Artikel]]></phrase>
+		<phrase name="tutsys_mostsubmit" date="1162046296" username="Sebijk" version="1.0"><![CDATA[Meiste Artikeln von den Autoren]]></phrase>
+		<phrase name="tutsys_na" date="0" username="" version=""><![CDATA[N/A]]></phrase>
+		<phrase name="tutsys_newtut" date="1163245404" username="Sebijk" version="1.0"><![CDATA[Neuen Artikel erstellen]]></phrase>
+		<phrase name="tutsys_noarticle" date="0" username="" version=""><![CDATA[Kein Artikel gefunden]]></phrase>
+		<phrase name="tutsys_nocomments" date="0" username="" version=""><![CDATA[Keine Kommentare gefunden. Wollen Sie der erste sein der ein Kommentar schreibt?]]></phrase>
+		<phrase name="tutsys_postby" date="0" username="" version=""><![CDATA[Geschrieben von]]></phrase>
+		<phrase name="tutsys_postcomment" date="0" username="" version=""><![CDATA[Kommentar senden]]></phrase>
+		<phrase name="tutsys_postdate" date="1198693149" username="Sebijk" version="1.0"><![CDATA[ver&ouml;ffentlicht am]]></phrase>
+		<phrase name="tutsys_postnew" date="1162046296" username="Sebijk" version="1.0"><![CDATA[Neuen Artikel einsenden]]></phrase>
+		<phrase name="tutsys_printpage" date="0" username="" version=""><![CDATA[Artikel drucken]]></phrase>
+		<phrase name="tutsys_ratearticle" date="0" username="" version=""><![CDATA[Diesen Artikel bewerten]]></phrase>
+		<phrase name="tutsys_ratenow" date="0" username="" version=""><![CDATA[Jetzt bewerten]]></phrase>
+		<phrase name="tutsys_rating" date="0" username="" version=""><![CDATA[Bewertung]]></phrase>
+		<phrase name="tutsys_rating1" date="0" username="" version=""><![CDATA[Schlecht]]></phrase>
+		<phrase name="tutsys_rating2" date="1198693120" username="Sebijk" version="1.0"><![CDATA[&Uuml;berarbeitung n&ouml;tig]]></phrase>
+		<phrase name="tutsys_rating3" date="1162046466" username="Sebijk" version="1.0"><![CDATA[Durschnittlich]]></phrase>
+		<phrase name="tutsys_rating4" date="0" username="" version=""><![CDATA[Gut]]></phrase>
+		<phrase name="tutsys_rating5" date="1162046466" username="Sebijk" version="1.0"><![CDATA[Hervorragend]]></phrase>
+		<phrase name="tutsys_ratingquestion" date="1162046466" username="Sebijk" version="1.0"><![CDATA[Wie m&ouml;chten Sie den Artikel bewerten?]]></phrase>
+		<phrase name="tutsys_rules" date="1198692970" username="Sebijk" version="1.0"><![CDATA[Wenn Sie einen Artikel schreiben, der auf die Arbeit eines anderen basiert, dann geben Sie bitte alle Informationen &uuml;ber die jeweilige Person an wie zum Beispiel: Name, Homepage, u.a.]]></phrase>
+		<phrase name="tutsys_searcharticle" date="1162046648" username="Sebijk" version="1.0"><![CDATA[Artikeln suchen]]></phrase>
+		<phrase name="tutsys_searchcat" date="0" username="" version=""><![CDATA[Kategorie durchsuchen]]></phrase>
+		<phrase name="tutsys_searchtool" date="0" username="" version=""><![CDATA[Werkzeuge suchen]]></phrase>
+		<phrase name="tutsys_selectone" date="1198693120" username="Sebijk" version="1.0"><![CDATA[W&auml;hlen Sie aus]]></phrase>
+		<phrase name="tutsys_sendarticle_message" date="1198693018" username="Sebijk" version="1.0"><![CDATA[Ich dachte Sie k&ouml;nnten an diesem Artikel interessiert sein: {1}/tutorials.php?do=view&tutid={2}&referrerid={3} 
+
+Von, 
+{4}]]></phrase>
+		<phrase name="tutsys_sendpage" date="1198693018" username="Sebijk" version="1.0"><![CDATA[Artikel per E-Mail weitersenden]]></phrase>
+		<phrase name="tutsys_sortoptions" date="1162046604" username="Sebijk" version="1.0"><![CDATA[Sortierungsoptionen]]></phrase>
+		<phrase name="tutsys_stats" date="1162046604" username="Sebijk" version="1.0"><![CDATA[Statistik]]></phrase>
+		<phrase name="tutsys_summary" date="0" username="" version=""><![CDATA[Zusammenfassung]]></phrase>
+		<phrase name="tutsys_totaltuts" date="1162046610" username="Sebijk" version="1.0"><![CDATA[Alle Artikeln]]></phrase>
+		<phrase name="tutsys_tutrules" date="0" username="" version=""><![CDATA[Posting Regeln]]></phrase>
+		<phrase name="tutsys_usercomment" date="0" username="" version=""><![CDATA[Kommentar einsenden]]></phrase>
+		<phrase name="tutsys_usertuts" date="1162046800" username="Sebijk" version="1.0"><![CDATA[Ihre Artikeln]]></phrase>
+		<phrase name="tutsys_viewauth" date="0" username="" version=""><![CDATA[Artikel des Autor´s]]></phrase>
+		<phrase name="tutsys_viewcat" date="0" username="" version=""><![CDATA[Kategorie ansehen]]></phrase>
+		<phrase name="tutsys_views" date="1162046800" username="Sebijk" version="1.0"><![CDATA[Gelesen]]></phrase>
+		<phrase name="x_powered_by_vbviet" date="0" username="" version=""><![CDATA[{1} - powered by vBviet &copy; vbviet.org]]></phrase>
+	</phrasetype>
+	<phrasetype name="vBulletin-Einstellungen" fieldname="vbsettings">
+		<phrase name="settinggroup_tutsys" date="1162064096" username="Sebijk" version="1.0"><![CDATA[Tutorial System-Optionen]]></phrase>
+		<phrase name="setting_tut_allowbbcode_desc" date="1162045609" username="Sebijk" version="1.0"><![CDATA[vB Codes in Beitr&auml;gen erlauben?]]></phrase>
+		<phrase name="setting_tut_allowbbcode_title" date="1162045609" username="Sebijk" version="1.0"><![CDATA[BB Codes erlauben?]]></phrase>
+		<phrase name="setting_tut_allowhtml_desc" date="1162045609" username="Sebijk" version="1.0"><![CDATA[HTML in Beitr&auml;gen erlauben?]]></phrase>
+		<phrase name="setting_tut_allowhtml_title" date="1162045609" username="Sebijk" version="1.0"><![CDATA[HTML erlauben?]]></phrase>
+		<phrase name="setting_tut_allowsmilie_desc" date="1162045609" username="Sebijk" version="1.0"><![CDATA[Smilies in Beitr&auml;gen erlauben?]]></phrase>
+		<phrase name="setting_tut_allowsmilie_title" date="1162045609" username="Sebijk" version="1.0"><![CDATA[Smilie-Codes in Smilies umwandeln?]]></phrase>
+		<phrase name="setting_tut_bestauth_desc" date="1174135963" username="Sebijk" version="1.0"><![CDATA[Den meisten eingereichten Artikel von Autor Block zeigen?]]></phrase>
+		<phrase name="setting_tut_bestauth_title" date="1174135963" username="Sebijk" version="1.0"><![CDATA[Meist eingereichte Artikeln von Autor]]></phrase>
+		<phrase name="setting_tut_imgcode_desc" date="1162045647" username="Sebijk" version="1.0"><![CDATA[[img]-Codes in Beit&auml;gen erlauben?]]></phrase>
+		<phrase name="setting_tut_imgcode_title" date="1162045609" username="Sebijk" version="1.0"><![CDATA[IMG-Code erlauben?]]></phrase>
+		<phrase name="setting_tut_maxhigh_desc" date="1174136575" username="Sebijk" version="1.0"><![CDATA[Maximale Anzahl der Artikel der meiste eingereichte Autor, die im Block angezeigt werden soll?]]></phrase>
+		<phrase name="setting_tut_maxhigh_title" date="1174136575" username="Sebijk" version="1.0"><![CDATA[Maximale Einreichung]]></phrase>
+		<phrase name="setting_tut_maxpop_desc" date="1198691750" username="Sebijk" version="1.0"><![CDATA[Maximale Anzahl der popul&auml;ren Artikel, die im popul&auml;rsten Block angezeigt wird.]]></phrase>
+		<phrase name="setting_tut_maxpop_title" date="1162045740" username="Sebijk" version="1.0"><![CDATA[Maximale Anzahl der beliebtesten Artikeln]]></phrase>
+		<phrase name="setting_tut_multivote_desc" date="1174136575" username="Sebijk" version="1.0"><![CDATA[D&uuml;rfen die Benutzer mehrmals in einem Artikel abstimmen?]]></phrase>
+		<phrase name="setting_tut_multivote_title" date="1174136575" username="Sebijk" version="1.0"><![CDATA[Mehrmals abstimmen]]></phrase>
+		<phrase name="setting_tut_perpage_desc" date="1174136575" username="Sebijk" version="1.0"><![CDATA[Maximale Seitenanzahl des Artikels, die angezeigt werden soll.]]></phrase>
+		<phrase name="setting_tut_perpage_title" date="1174136575" username="Sebijk" version="1.0"><![CDATA[Seitenanzahl]]></phrase>
+		<phrase name="setting_tut_showpop_desc" date="1198691750" username="Sebijk" version="1.0"><![CDATA[Die meisten popul&auml;ren Artikel auf Tutorialseite anzeigen? (1 zus&auml;tzliche Datenbankabfrage, wenn Sie diese Funktion aktivieren).]]></phrase>
+		<phrase name="setting_tut_showpop_title" date="1198691750" username="Sebijk" version="1.0"><![CDATA[Popul&auml;rster Block]]></phrase>
+		<phrase name="setting_tut_showstats_desc" date="1198691781" username="Sebijk" version="1.0"><![CDATA[Statistikblock auf der Tutorial-Seite anzeigen? (+ 4 zus&auml;tzliche Datenbankabfragen, wenn Sie diese Funktion aktivieren).]]></phrase>
+		<phrase name="setting_tut_showstats_title" date="1174136919" username="Sebijk" version="1.0"><![CDATA[Statistikblock anzeigen?]]></phrase>
+		<phrase name="setting_tut_titlecut_desc" date="1174136919" username="Sebijk" version="1.0"><![CDATA[Wieviel Text soll angezeigt werden, bevor das '...' erscheint?]]></phrase>
+		<phrase name="setting_tut_titlecut_title" date="1174136919" username="Sebijk" version="1.0"><![CDATA[Titel-Schnitt]]></phrase>
+		<phrase name="setting_tut_tutinprofile_desc" date="1174136919" username="Sebijk" version="1.0"><![CDATA[Benutzerartikeln in Profilen anzeigen?]]></phrase>
+		<phrase name="setting_tut_tutinprofile_title" date="1174136919" username="Sebijk" version="1.0"><![CDATA[Benutzerartikeln in Profilen]]></phrase>
+	</phrasetype>
+</language>

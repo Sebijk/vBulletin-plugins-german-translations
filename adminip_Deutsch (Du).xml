@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<language name="Deutsch (Du)" vbversion="3.7.0 Release Candidate 2" product="adminip" type="phrases">
+	<phrasetype name="Kontrollzentrum: Global" fieldname="cpglobal">
+		<phrase name="currentip" date="1152622911" username="Sebijk" version="1.0"><![CDATA[Vorherige IP-Adresse]]></phrase>
+		<phrase name="ipboxname" date="1159198341" username="Sebijk" version="1.0"><![CDATA[Administrator IP-P&uuml;fer]]></phrase>
+		<phrase name="ipmatch" date="1207932267" username="Sebijk" version="1.0"><![CDATA[<div style="color:#99CC00; font-weight:bold;">Die IP-Adressen passen zusammen!</div>]]></phrase>
+		<phrase name="ipmismatch" date="1159198294" username="Sebijk" version="1.0"><![CDATA[<div style="color:#990000; font-weight:bold;">Deine vorher angemeldete und aktuelle IP-Adresse passen nicht zusammen! </div>]]></phrase>
+		<phrase name="loggedip" date="1152622984" username="Sebijk" version="1.0"><![CDATA[Zurzeit angemeldete IP-Adresse]]></phrase>
+	</phrasetype>
+	<phrasetype name="vBulletin-Einstellungen" fieldname="vbsettings">
+		<phrase name="settinggroup_adminipset" date="1159198341" username="Sebijk" version="1.0"><![CDATA[Administrator IP-Pr&uuml;fer Einstellungen]]></phrase>
+		<phrase name="setting_adminid_desc" date="1159198265" username="Sebijk" version="1.0"><![CDATA[Benutzer-ID definieren (allgemein '1')]]></phrase>
+		<phrase name="setting_adminid_title" date="1159198265" username="Sebijk" version="1.0"><![CDATA[Benutzer-ID]]></phrase>
+	</phrasetype>
+</language>

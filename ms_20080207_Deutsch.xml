@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<language name="Deutsch (Sie)" vbversion="3.7.1" product="ms_20080207" type="phrases">
+	<phrasetype name="Kontrollzentrum: Global" fieldname="cpglobal">
+		<phrase name="flashchat_bans" date="1213730107" username="Sebijk" version="3.3.0"><![CDATA[Bannliste]]></phrase>
+		<phrase name="flashchat_connections" date="1213730107" username="Sebijk" version="3.3.0"><![CDATA[Verbindungen]]></phrase>
+		<phrase name="flashchat_ignores" date="1213730107" username="Sebijk" version="3.3.0"><![CDATA[Ignorier-Liste]]></phrase>
+		<phrase name="flashchat_messages" date="1213730107" username="Sebijk" version="3.3.0"><![CDATA[Nachrichten]]></phrase>
+		<phrase name="flashchat_rooms" date="1213730107" username="Sebijk" version="3.3.0"><![CDATA[R&auml;ume]]></phrase>
+	</phrasetype>
+</language>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<language name="Deutsch (Du)" vbversion="3.7.0 Release Candidate 2" product="dcseolinkbacks" type="phrases">
+	<phrasetype name="Kontrollzentrum: Global" fieldname="cpglobal">
+		<phrase name="approve_refback" date="1206015399" username="Sebijk" version="1.5"><![CDATA[Refback freigeben]]></phrase>
+		<phrase name="dcseo_approve_all_linkbacks" date="1206015399" username="Sebijk" version="1.5"><![CDATA[Alle Linkbacks freigeben]]></phrase>
+		<phrase name="dcseo_moderatelinkbacks" date="1206013334" username="Sebijk" version="1.5"><![CDATA[Linkbacks moderieren]]></phrase>
+		<phrase name="refback" date="1206013334" username="Sebijk" version="1.5"><![CDATA[Refback]]></phrase>
+	</phrasetype>
+	<phrasetype name="Rechte" fieldname="cppermission">
+		<phrase name="can_moderate_backlinks" date="1206013310" username="Sebijk" version="1.5"><![CDATA[Kann Backlinks moderieren]]></phrase>
+	</phrasetype>
+	<phrasetype name="Fehlermeldungen" fieldname="error">
+		<phrase name="moderated_linkbacks_successfully" date="1206015429" username="Sebijk" version="1.5"><![CDATA[Linkback wurde erfolgreich moderiert]]></phrase>
+		<phrase name="no_linkbacks" date="1206015580" username="Sebijk" version="1.5"><![CDATA[Es sind keine Links vorhanden, die auf Moderation warten]]></phrase>
+	</phrasetype>
+	<phrasetype name="Benutzeroberfläche: Weiterleitungen" fieldname="frontredirect">
+		<phrase name="deletelinkbackthanks" date="1206013310" username="Sebijk" version="1.5"><![CDATA[Dieses Linkback wurde entfernt]]></phrase>
+	</phrasetype>
+	<phrasetype name="GLOBAL" fieldname="global">
+		<phrase name="delete_linkback" date="1206013261" username="Sebijk" version="1.5"><![CDATA[Linkback entfernen]]></phrase>
+		<phrase name="delete_linkback_confirmation_text" date="1207922863" username="Sebijk" version="1.5"><![CDATA[Bist du sicher, dass du den Linkback entfernen m&ouml;chtest?]]></phrase>
+		<phrase name="linkbacks" date="1206013261" username="Sebijk" version="1.5"><![CDATA[Linkbacks]]></phrase>
+		<phrase name="refback" date="1206013261" username="Sebijk" version="1.5"><![CDATA[Refback]]></phrase>
+		<phrase name="type" date="1206013261" username="Sebijk" version="1.5"><![CDATA[Typ]]></phrase>
+		<phrase name="url" date="1206013310" username="Sebijk" version="1.5"><![CDATA[URL]]></phrase>
+	</phrasetype>
+	<phrasetype name="vBulletin-Einstellungen" fieldname="vbsettings">
+		<phrase name="settinggroup_dcseo" date="1206013261" username="Sebijk" version="1.5"><![CDATA[DCSEO-Linkback-Einstellungen]]></phrase>
+		<phrase name="setting_linkbacks_blacklist_desc" date="1206017994" username="Sebijk" version="1.5"><![CDATA[Hier kannst du bestimmte Domainnamen oder URLs vom Linkback-System ausschlie&szlig;en. Trennen die einzelnen Eintr&auml;ge mit einer neuen Zeile von einander.]]></phrase>
+		<phrase name="setting_linkbacks_blacklist_title" date="1206015452" username="Sebijk" version="1.5"><![CDATA[Blackliste der Linkbacks]]></phrase>
+		<phrase name="setting_moderaterefbacks_desc" date="1206017994" username="Sebijk" version="1.5"><![CDATA[Setzen diese Option auf Ja, wenn du die eingehenden Refbacks moderieren m&ouml;chtest. (Es wird empfohlen, diese Einstellung auf Ja stehen zu lassen)]]></phrase>
+		<phrase name="setting_moderaterefbacks_title" date="1206013261" username="Sebijk" version="1.5"><![CDATA[Refbacks moderieren?]]></phrase>
+	</phrasetype>
+</language>

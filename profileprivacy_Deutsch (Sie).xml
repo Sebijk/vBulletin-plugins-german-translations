@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<language name="Deutsch (Sie)" vbversion="3.7.1" product="profileprivacy" type="phrases">
+	<phrasetype name="Fehlermeldungen" fieldname="error">
+		<phrase name="profile_privacy_denied" date="1213779887" username="Sebijk" version="1.0.1"><![CDATA[Sie d&uuml;rfen das Profil von {1} nicht ansehen. Sie m&uuml;ssen registriert oder von Ihm freigeschaltet sein.
+<table style="width:100%;"><tr><td style="text-align:left;"><a href="private.php?do=newpm&u={2}">Eine Private Nachricht an {1} senden</a></td> <td style="text-align:right;"><a href="profile.php?do=addlist&userlist=buddy&u={2}">{1} in Ihrer Freundeliste aufnehmen</a></td></tr></table>]]></phrase>
+	</phrasetype>
+	<phrasetype name="Benutzer-Tools (global)" fieldname="user">
+		<phrase name="profile_privacy" date="1213779887" username="Sebijk" version="1.0.1"><![CDATA[Privates Profil]]></phrase>
+		<phrase name="profile_privacy_friends" date="1213779887" username="Sebijk" version="1.0.1"><![CDATA[Nur Freunde/Buddys]]></phrase>
+		<phrase name="profile_privacy_message" date="1187041559" username="Sebijk" version="1.0.1"><![CDATA[Diese Einstellung steuert, wer Ihren Profil im Forum ansehen kann.]]></phrase>
+		<phrase name="profile_privacy_private" date="1213779887" username="Sebijk" version="1.0.1"><![CDATA[Privat (Profil kann nur von Mitgliedern eingesehen werden)]]></phrase>
+		<phrase name="profile_privacy_public" date="1213779887" username="Sebijk" version="1.0.1"><![CDATA[ALLE (Profil freigeben)]]></phrase>
+	</phrasetype>
+</language>
