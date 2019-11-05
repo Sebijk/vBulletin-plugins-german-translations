@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<language name="Deutsch (Du)" vbversion="4.2.0" product="paulm_mis_42" type="phrases">
+	<phrasetype name="vBulletin-Einstellungen" fieldname="vbsettings">
+		<phrase name="settinggroup_miserable" date="1226323807" username="Dominic" version="3.7.002"><![CDATA[Unerw&uuml;nschte Benutzer]]></phrase>
+	</phrasetype>
+</language>
